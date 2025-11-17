@@ -1,6 +1,10 @@
 # expense_tracker
 
 A new Flutter project.
+<img width="2590" height="940" alt="Frame 1" src="https://github.com/user-attachments/assets/151a1eb5-4ba9-4f79-bcf9-cb0c6d8c8629" />
+
+
+
 
 ## Getting Started
 
